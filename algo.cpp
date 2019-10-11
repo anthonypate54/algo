@@ -9,7 +9,6 @@
 
 int main()
 {
-
 	Expression* e = new Expression();
 
 	const char* estr = "{([<1> + 2])}";
